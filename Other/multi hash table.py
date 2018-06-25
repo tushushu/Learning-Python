@@ -157,5 +157,5 @@ def test():
 if __name__ == "__main__":
     # Set the encoding of stdout as uft8
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-    path = "D:/Soyoung/training/Other/words.txt"
+    path = "/words.txt"
     test()
