@@ -1,7 +1,7 @@
 """
 Created on Wed Apr 12 21:57:50 2017
 
-@author: tushushu
+@author: liuzimu
 """
 
 class Node(object):
